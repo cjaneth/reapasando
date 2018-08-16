@@ -1,0 +1,11 @@
+*{
+	display:block;
+	
+}
+
+h1{
+	background-color:blue;
+	font-family: 'Amatic SC', cursive;
+	font-size: 500%;
+	color:white;
+}
